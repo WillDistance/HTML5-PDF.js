@@ -5,7 +5,7 @@
 无论哪种方式都是去访问/pdf/web/viewer.html这个文件，将PDF链接通过参数传递
 
 1、a标签
-<a href="/pdf/web/viewer.html?file=file.pdf">Open</a>
+'<a href="/pdf/web/viewer.html?file=file.pdf">Open</a>'
 
 2、window.open跳转链接
 window.open('/pdf/web/viewer.html?file=file.pdf','PDF','width:50%;height:50%');
